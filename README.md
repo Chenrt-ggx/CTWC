@@ -1,4 +1,4 @@
-# draw_course_table
+# CTWC: A Course Table Wallpaper Creater
 
 ## Project setup
 
