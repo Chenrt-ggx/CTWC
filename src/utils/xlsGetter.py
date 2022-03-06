@@ -66,4 +66,4 @@ def get_xls():
 
 
 def clear_xls():
-    os.remove('./utils/temp.xls')
+    os.remove('./temp.xls')

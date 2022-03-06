@@ -3,6 +3,7 @@ settings.json
 authorization.json
 /src/utils/__pycache__
 /src/geckodriver.log
+/src/temp.xls
 node_modules
 results
 /dist
